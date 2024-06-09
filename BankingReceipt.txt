@@ -1,0 +1,8 @@
+Checking Account Details: 
+Account Number :235791
+Account Type :Checking
+Balance :405.0
+Saving Account Details: 
+Account Number :346803
+Account Type :Saving
+Balance :900.0
